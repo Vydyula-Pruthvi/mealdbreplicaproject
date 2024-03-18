@@ -1,0 +1,47 @@
+#new{display: table-row-group;}
+#text{text-align: center;
+padding-top: 10px;}
+#next{display: table-row;
+}
+#top{margin-top: 20px;
+}
+#meat{position: relative;
+margin-left: 500px;}
+#center{text-align: center;
+}
+#wide{
+
+color: tomato;}
+
+#widee{text-align: center;
+    color: tomato;}
+
+
+
+    /* #red{background-color: darkred;} */
+
+    #centerr{text-align: center;
+    }
+    #color{background-color: rgb(15, 2, 2);
+    color: white;}
+
+    #centerrr{color: tomato;
+    text-align: center;}
+
+    #white{color: black;
+    }
+    /* .btn{margin-left: 10px;
+    margin-right: 500px;} */
+    .btnn{background-color: rgba(92, 92, 245, 0.948);}
+
+    
+@media screen and (max-width:530px){
+
+    #media{      text-align: center;}
+    #mediaa{padding: 20px;}
+    #btn{margin-left: 200px;
+    margin-right: 200px;}
+
+}
+
+#row{display: inline-block;}
